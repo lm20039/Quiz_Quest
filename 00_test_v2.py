@@ -11,9 +11,8 @@ def decoration(statement, aesthetics):
     print(top_bottom)
 
 #title
-def title():
-    decoration("Welcome to Quiz Quest" ,"?")
-    decoration("You will be Quizzed on the anime 'One Piece'" ,"~")
+decoration("Welcome to Quiz Quest" ,"?")
+decoration("You will be Quizzed on the anime 'One Piece'" ,"~")
 
 print()
 
